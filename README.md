@@ -15,3 +15,6 @@ This is a simple web application that allows users to keep track of their dream 
   - IIFE for encapsulation
   - `use strict` mode
   - Minimal use of global scope
+
+ ## Screenshots
+ ![Image](https://github.com/user-attachments/assets/031b3972-fec4-414e-87c6-483fce816fd8)
