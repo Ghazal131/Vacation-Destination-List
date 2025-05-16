@@ -11,7 +11,7 @@ This is a simple web application that allows users to keep track of their dream 
 ## Technologies
 - HTML for structure.
 - CSS for styling.
-- JavaScript with:
+- **Vanilla JavaScript** with:
   - IIFE for encapsulation
   - `use strict` mode
   - Minimal use of global scope
